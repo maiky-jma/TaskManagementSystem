@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # TaskManagementSystem
-=======
+
 # 📋 TaskManagementSystem
 
 ## ✨ What is this app?
@@ -129,4 +129,3 @@ app/
 ## 🤝 Want to contribute?
 
 This project is growing. If you have ideas, suggestions, or want to share your knowledge, you’re more than welcome!
->>>>>>> 25b96c049fc5416df722c07f1bf0e3808ba4fa8e
