@@ -1,6 +1,3 @@
-
-# TaskManagementSystem
-
 # 📋 TaskManagementSystem
 
 ## ✨ What is this app?
