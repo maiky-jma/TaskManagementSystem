@@ -40,24 +40,6 @@ Whether you're a student, developer, or part of a team, this tool aims to adapt 
 
 ---
 
-## 🧱 Project Structure
-
-```text
-app/
-│
-├── domain/         → Business logic, pure models
-├── data/           → Repositories, data sources (API, local DB)
-├── presentation/   → User interfaces, views, controllers
-├── utils/          → Reusable functions and helpers
-├── tests/          → Unit and integration tests
-├── docs/           → Additional project documentation
-└── config/         → Global configs, build files, etc.
-```
-
-🔄 **Recommended architecture:** Clean Architecture or MVVM (Model-View-ViewModel) for separation of concerns and scalability.
-
----
-
 ## 🛠️ Technologies and Tools
 
 - **Main language:** Kotlin  
